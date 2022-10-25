@@ -6,10 +6,9 @@
 #    solution('abc', 'd') # returns false
 
 
+# Challenge
 def solution(string, ending):
     return string.endswith(ending)
-
-
 
 
 # Tests
